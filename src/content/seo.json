@@ -1,0 +1,25 @@
+{
+  "site": {
+    "name": "Marcus Moo",
+    "url": "https://www.marcusmoowh.com",
+    "title": "Marcus Moo — APAC Technology Evangelist",
+    "description": "Marcus Moo is an APAC Technology Evangelist and Senior Manager (Technology) in Singapore — building public-good platforms, mentoring engineers, and writing on FinOps, cloud, AI and the disciplines behind the work.",
+    "image": "/photos/feature.jpg",
+    "twitter": "@metadolphin",
+    "locale": "en_SG"
+  },
+  "routes": {
+    "/": {
+      "title": "Marcus Moo — APAC Technology Evangelist",
+      "description": "APAC Technology Evangelist and Senior Manager (Technology) in Singapore. Architecting public-good platforms, speaking and mentoring across Asia-Pacific, with notes on FinOps, cloud and AI."
+    },
+    "/blog": {
+      "title": "Power of Words — Marcus Moo",
+      "description": "Essays and field notes on FinOps, cloud cost governance, AI, engineering leadership and the disciplines behind the work — written by Marcus Moo."
+    },
+    "/travel": {
+      "title": "Travel — Marcus Moo",
+      "description": "Monthly travels across APAC — Singapore, Malaysia, Taiwan, South Korea, Thailand, Vietnam, Australia and Indonesia — and what each place teaches about building."
+    }
+  }
+}
