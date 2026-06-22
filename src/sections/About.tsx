@@ -19,7 +19,7 @@ const capabilities = [
     metric: '$25M+',
     tag: 'Flagship Tech Platforms',
     title: 'National-scale solution architecture',
-    body: 'I co-build multi-million-dollar government with talented agile team and deliver platforms end-to-end — translating policy into resilient, secure systems that serve businesses and citizens at population scale.',
+    body: 'I co-build multi-million-dollar government digital services with talented agile team and deliver platforms end-to-end — translating policy into resilient, secure systems that serve businesses and citizens at population scale.',
   },
   {
     metric: '30+',
