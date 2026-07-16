@@ -74,7 +74,8 @@ export function Contact() {
         <div className="contact-grid">
           <Reveal>
             <div className="contact-info">
-              <a className="cinfo" href="tel:+6581314195"><span>Phone</span><b>+65 8131 4195</b></a>
+              <a className="cinfo" href="tel:+6581514913"><span>Phone</span><b>+65 8151 4913</b></a>
+              <a className="cinfo" href="https://wa.me/6581514913?text=Hi%20Marcus%2C" target="_blank" rel="noopener noreferrer"><span>WhatsApp</span><b>+65 8151 4913</b></a>
               <a className="cinfo" href={`mailto:${TO_EMAIL}`}><span>Email</span><b>{TO_EMAIL}</b></a>
               <p className="copy">Open to speaking, mentorship, and tech-policy &amp; architecture collaborations across the Asia-Pacific. Reach out — I read every message.</p>
             </div>
